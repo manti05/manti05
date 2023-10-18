@@ -14,9 +14,9 @@ I'm Mantas, a passionate developer and recent Computer Science graduate 🎓 ori
 
 🔗 You can explore some of my Python projects below:
 
-☁️ ![Current Weather App](https://github.com/manti05/currentWeather)
+☁️ [Current Weather App](https://github.com/manti05/currentWeather)
 
-📊 ![Life Expectancy Data Visualization](https://github.com/manti05/dataVisualization)
+📊 [Life Expectancy Data Visualization](https://github.com/manti05/dataVisualization)
 
 📧 Feel free to contact me at: [mantas@mantascodes.com](mailto:mantas@mantascodes.com)
 
