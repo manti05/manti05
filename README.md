@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-I'm Mantas, a passionate developer and recent Computer Science graduate, studied in TUD Dublin, Ireland. Currently living in Kaunas, Lithuania.
+I'm Mantas, a passionate developer and recent Computer Science graduate, studied in TUD Dublin, Ireland. 
+Currently reside in Kaunas, Lithuania.
 
 I'm proficient in various programming languages and technologies, including:
 - Python
