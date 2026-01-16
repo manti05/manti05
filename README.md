@@ -1,24 +1,10 @@
 # Hi there! 👋
 
-I'm Mantas, a passionate developer and recent Computer Science graduate, studied in TUD Dublin, Ireland. 
-Currently reside in Kaunas, Lithuania.
+I'm Mantas — a Computing graduate based in Kaunas, Lithuania.
 
-I'm proficient in various programming languages and technologies, including:
-- Python
-- Java
-- PHP
-- JavaScript
-- HTML/CSS
-- MySQL
+I enjoy shipping small-to-medium projects, then improving them through refactoring, documentation, and cleanup. Recently I've been focusing on Python projects and foundational web development.
 
-You can explore some of my Python projects below:
+**Primarily:** Python (projects), Java (coursework), JavaScript (web basics)
 
-👶[Baby Monitor](https://github.com/manti05/baby_monitor)
-
-☁️ [Current Weather App](https://github.com/manti05/currentWeather)
-
-📊 [Life Expectancy Data Visualization](https://github.com/manti05/dataVisualization)
-
-📧 Feel free to contact me at: [mantas@mantascodes.com](mailto:mantas@mantascodes.com)
-
-🌐 Visit my website: [mantascodes.com](https://mantascodes.com)
+- Portfolio: https://mantascodes.com  
+- Email: mantas@mantascodes.com
